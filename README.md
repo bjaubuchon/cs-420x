@@ -7,3 +7,5 @@ Assignment 1: [video](https://youtu.be/uoMF6CJN2R4), [code](https://github.com/b
 Assignment 2: [project](https://bjaubuchon.github.io/cs-420x-assignment2/), [repo](https://github.com/bjaubuchon/cs-420x-assignment2), [explanation](https://docs.google.com/document/d/19KHdgWyTBucUMESqK2zv8nBxqlvn2H_wEoqLMM7oK9c/edit?usp=sharing)
 
 Assignment 3: [project](https://bjaubuchon.github.io/cs420x-assignment3/), [repo](https://github.com/bjaubuchon/cs420x-assignment3), [explanation](https://docs.google.com/document/d/15MYQ15V8giqRH0FWb2o5kNVj0_X0_PnXbrGTppRBU3g/edit?usp=sharing)
+
+Assignment 4: [project](https://bjaubuchon.github.io/cs420x-assignment4/), [repo](https://github.com/bjaubuchon/cs420x-assignment4), [explanation](https://github.com/bjaubuchon/cs420x-assignment4/blob/main/README.md)
