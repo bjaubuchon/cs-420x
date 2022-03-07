@@ -9,3 +9,5 @@ Assignment 2: [project](https://bjaubuchon.github.io/cs-420x-assignment2/), [rep
 Assignment 3: [project](https://bjaubuchon.github.io/cs420x-assignment3/), [repo](https://github.com/bjaubuchon/cs420x-assignment3), [explanation](https://docs.google.com/document/d/15MYQ15V8giqRH0FWb2o5kNVj0_X0_PnXbrGTppRBU3g/edit?usp=sharing)
 
 Assignment 4: [project](https://bjaubuchon.github.io/cs420x-assignment4/), [repo](https://github.com/bjaubuchon/cs420x-assignment4), [explanation](https://github.com/bjaubuchon/cs420x-assignment4/blob/main/README.md)
+
+Final Project (It is really bad, I am so sorry): [project](https://bjaubuchon.github.io/cs420x-finalProject/), [repo & explanation](https://github.com/bjaubuchon/cs420x-finalProject), [video](https://youtu.be/49E09LNfFNE)
